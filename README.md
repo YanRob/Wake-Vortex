@@ -13,4 +13,5 @@ They contains no confidential data or algorithms.
 **Vortex Profile**
 - functions related to the characteristics of a single vortex (radius, max. velocity, circulation)
 - vortex reconstruction
-- vortex fitting with calcultion of core size and circulation
+- vortex fitting with calculation of core size and circulation
+- random generation of vortex profiles
